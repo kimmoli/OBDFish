@@ -30,9 +30,7 @@ QT += bluetooth
 
 OTHER_FILES += qml/harbour-obdfish.qml \
     qml/cover/CoverPage.qml \
-    rpm/harbour-obdfish.changes.in \
     rpm/harbour-obdfish.spec \
-    rpm/harbour-obdfish.yaml \
     translations/*.ts \
     harbour-obdfish.desktop
 
